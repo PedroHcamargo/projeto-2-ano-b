@@ -1,1 +1,54 @@
-
+*{
+    margin: 10px;
+}
+.cabecalho-geral
+{
+    backgound-color: rgb(38, 0, 255)
+}
+.titulo-cabecalho
+{
+    color:black;
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
+}
+.lista-secao
+{
+    padding: 10px;
+    font-size: 20px;
+}
+.tit-1-secao
+{
+    color:blueviolet
+    font-size: 40px;
+    font-family:  fantasy;
+}
+.tit-2-secao
+{
+    color:aquamarine;
+    font-size: 40px;
+    font-family: 'lucida sans', 'lucida sans regular', 'lucida grande', 'lucida sans', arial, sans-serif;
+}
+.p-tit-1
+{
+    font-size: 35px;
+    color:palegreen;
+    font-family: 'trebuchet ms', 'lucida sans unicode', 'lucida grande', 'lucida sans', arial, sans-serif;
+}
+.item-1
+{
+    color:cadetblue;
+}
+.item-2
+{
+    color:cadetblue;
+}
+.item-3
+{
+    color:cadetblue;
+}
+.item-4
+{
+    color:cadetblue;
+}
